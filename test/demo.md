@@ -3,7 +3,7 @@
 $$ f(x) = a - b \tag{1.1} $$
 $$ x+2-3*4/6=4/y + x\cdot y $$
 $$ 0 \neq 1 \quad x \equiv x \quad 1 = 9 \bmod 2 $$
-$$ a*{ij}^{2} + b^3\*{2}=x^{t} + y' + x''\_{12} $$
+$$ a*{ij}^{2} + b^3*{2}=x^{t} + y' + x''\_{12} $$
 
 $$
 \sqrt{x} + \sqrt{x^{2}+\sqrt{y}} = \sqrt[3]{k_{i}} - \frac{x}{m}
@@ -36,7 +36,8 @@ $$
 
 $$
 \begin{bmatrix}
-1 & 1 &3  \\ 2 &2  &3  \\  1& 2 &2  \\\end{bmatrix}
+1 & 1 &3  \\ 2 &2  &3  \\  1& 2 &2  \\
+\end{bmatrix}
 $$
 
 $$
