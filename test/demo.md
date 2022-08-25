@@ -26,6 +26,9 @@ $$
 x*{1},x*{2},\ldots,x*{5} \quad x*{1} + x*{2} + \cdots + x*{n}
 $$
 
+$\sqrt{5}$ 
+
+$ (x, y) (x, y, z)$
 # Matrix
 
 $$
@@ -63,4 +66,14 @@ $$
 \cos 2x &= \cos^2x - \sin^2x \\
 &=2\cos^2x-1
 \end{split}
+$$
+
+
+$$
+\begin{equation}
+    \begin{aligned}
+        t\colon  & x\longrightarrow y \\
+                  & b\longmapsto (a) = z 
+    \end{aligned}
+\end{equation}
 $$
